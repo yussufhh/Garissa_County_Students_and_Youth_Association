@@ -19,7 +19,7 @@ export default function Navbar() {
     { label: "Programs", href: "/programs", isRoute: false },
     { label: "Leadership", href: "/leadership", isRoute: false },
     { label: "Events", href: "/events", isRoute: false },
-    { label: "Contact", href: "/contact", isRoute: false },
+    { label: "Contact", href: "/contacts", isRoute: false },
   ];
 
   return (
